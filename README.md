@@ -1,2 +1,6 @@
 # Manpreettt03.github.io
-This is my first github website
+##Activity Report of Students Induction Programme 2024
+
+	| Date| Resource Person | Description |
+| ----------- | ----------- |
+| 10-07-24 | Hod |bjvv
