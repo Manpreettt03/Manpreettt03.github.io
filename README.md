@@ -1,6 +1,6 @@
 ## Manpreettt03.github.io
 Hello! <br>
-I’m Manpreet Kaur, a passionate and enthusiastic B.Tech student majoring in Computer Science and Engineering (CSE) from Guru Nanak Dev Engineering College, Ludhiana. As a fervent advocate of technology and innovation, I am driven by an insatiable curiosity to explore, learn, and create. This GitHub profile serves as a showcase of my journey through the fascinating world of computer science.<br>
+I’m *Manpreet Kaur*, a passionate and enthusiastic B.Tech student majoring in Computer Science and Engineering (CSE) from **Guru Nanak Dev Engineering College, Ludhiana**. As a fervent advocate of technology and innovation, I am driven by an insatiable curiosity to explore, learn, and create. This GitHub profile serves as a showcase of my journey through the fascinating world of computer science.<br>
 
 # ExcelCertificate
 
