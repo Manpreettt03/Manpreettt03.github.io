@@ -2,11 +2,13 @@
 Hello! <br>
 I’m Manpreet Kaur, a passionate and enthusiastic B.Tech student majoring in Computer Science and Engineering (CSE) from Guru NanakDevEngineeringCollege, Ludhiana. As a fervent advocate of technology and innovation, I am driven by an insatiable curiosity to explore, learn, and create. This GitHub profile serves as a showcase of my journey through the fascinating world of computer science.<br>
 
-# #ExcelCertificate
+# ExcelCertificate
 (Excel certificate.jpg)
 
+I recently earned a certification in Microsoft Excel, which has significantly enhanced my data analysis and management skills. This certification course covered advanced functions, pivot tables, data visualization techniques, and automation through macros. Through hands-on projects and practical exercises, I gained proficiency in efficiently organizing and analyzing large datasets. This certification not only solidified my understanding of Excel's capabilities but also equipped me with valuable tools to streamline workflows and make data-driven decisions. I am excited to apply these skills to real-world scenarios and contribute to data-centric projects with greater efficiency and precision.
 
-Activity Report of Students Induction Programme 2024
+
+# Activity Report of Students Induction Programme 2024
 
 | Date| Resource Person | Description |
 | ----------- | ----------- |
