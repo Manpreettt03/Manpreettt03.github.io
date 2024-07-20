@@ -1,4 +1,7 @@
 ## Manpreettt03.github.io
+##Github Profile 
+Hello! 
+I'm Manpreet Kaur. I am a student of Btech Cse in Guru Nanak Dev Engineering College,  Ludhiana .
 ###Activity Report of Students Induction Programme 2024
 
 | Date| Resource Person | Description |
