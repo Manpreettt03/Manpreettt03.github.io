@@ -1,6 +1,8 @@
 ## Manpreettt03.github.io 
 Hello! <br>
-Hello! I’m Manpreet Kaur, a passionate and enthusiastic B.Tech student majoring in Computer Science and Engineering (CSE) from Guru NanakDevEngineeringCollege, Ludhiana. As a fervent advocate of technology and innovation, I am driven by an insatiable curiosity to explore, learn, and create. This GitHub profile serves as a showcase of my journey through the fascinating world of computer science. 
+I’m Manpreet Kaur, a passionate and enthusiastic B.Tech student majoring in Computer Science and Engineering (CSE) from Guru NanakDevEngineeringCollege, Ludhiana. As a fervent advocate of technology and innovation, I am driven by an insatiable curiosity to explore, learn, and create. This GitHub profile serves as a showcase of my journey through the fascinating world of computer science.<br>
+
+##ExcelCertificate
 Activity Report of Students Induction Programme 2024
 
 | Date| Resource Person | Description |
