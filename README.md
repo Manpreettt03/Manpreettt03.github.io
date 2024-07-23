@@ -8,6 +8,7 @@ I’m *Manpreet Kaur*, a passionate and enthusiastic B.Tech student majoring in 
 
 
 I recently earned a certification in Microsoft Excel, which has significantly enhanced my data analysis and management skills. This certification course covered advanced functions, pivot tables, data visualization techniques, and automation through macros. Through hands-on projects and practical exercises, I gained proficiency in efficiently organizing and analyzing large datasets. This certification not only solidified my understanding of Excel's capabilities but also equipped me with valuable tools to streamline workflows and make data-driven decisions. I am excited to apply these skills to real-world scenarios and contribute to data-centric projects with greater efficiency and precision.
+#gndec #official.gndec 
 
 
 # Activity Report of Students Induction Programme 2024
