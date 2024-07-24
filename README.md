@@ -32,3 +32,9 @@ I recently earned a certification in Microsoft Excel, which has significantly en
 | 19-07-24 | Er. Kanwardeep Kalra | Mam is a Software Engineer . She guided us about the Do's and Dont's of the T&P cell .|
 | 19-07-24 | Jaswinder Singh | Sir is the incharge of IAPT . He performed various science experiments infront of us . He also gave us various tricks and told us how everything is related to Mathematics .|
 | 19-07-24 | - | Department Visit
+| 22-07-24 | Dr. S.B. Singh & Dr. Pushpinder Singh | They taught us many valuable insights. |
+| 22-07-24 | Dr. Sangeeta | She taught us all about sustainability and awared us what we our doing to make our environment better.|
+| 23-07-24 | - | UHV Classes |
+| 24-07-24 | Mr. Gauravdeep Singh| Sir told us about his life and he reached till here . He told us the three mantras and motivated us a lot by his stories. |
+| 24-07-24 | Er. Lakhveer Singh | The Coordinator of CML , Sir told us about the CML and it's role in college campus. He told us about the NPTEL and Swayam website to help us grow faster.|
+| 24-07-24 | - | All about Causmic Club |
